@@ -1,5 +1,5 @@
 {
-  "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Biblioteca.csproj",
+  "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Biblioteca.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,153 +14402,178 @@
   "RootNamespace": "Biblioteca",
   "Documents": [
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
-      "TargetPath": "Views\\Livro\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Emprestimo\\Cadastro.cshtml",
-      "TargetPath": "projetomantis\\Views\\Emprestimo\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
-      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Emprestimo\\Listagem.cshtml",
-      "TargetPath": "projetomantis\\Views\\Emprestimo\\Listagem.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Home\\Login.cshtml",
-      "TargetPath": "projetomantis\\Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\_ViewImports.cshtml",
-      "TargetPath": "projetomantis\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Livro\\Edicao.cshtml",
-      "TargetPath": "projetomantis\\Views\\Livro\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Livro\\_FormCadastro.cshtml",
-      "TargetPath": "projetomantis\\Views\\Livro\\_FormCadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "projetomantis\\Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
-      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Listagem.cshtml",
       "TargetPath": "Views\\Emprestimo\\Listagem.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
-      "TargetPath": "Views\\Livro\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Home\\Index.cshtml",
-      "TargetPath": "projetomantis\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Emprestimo\\Edicao.cshtml",
-      "TargetPath": "projetomantis\\Views\\Emprestimo\\Edicao.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "projetomantis\\Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "projetomantis\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
-      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Login.cshtml",
-      "TargetPath": "Views\\Home\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Livro\\Cadastro.cshtml",
-      "TargetPath": "projetomantis\\Views\\Livro\\Cadastro.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Usuarios\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\_FormCadastro.cshtml",
       "TargetPath": "Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "projetomantis\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Index.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Emprestimo\\Edicao.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\Livro\\Listagem.cshtml",
-      "TargetPath": "projetomantis\\Views\\Livro\\Listagem.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Livro\\_FormCadastro.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Livro\\_FormCadastro.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "g:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis\\Views\\_ViewStart.cshtml",
-      "TargetPath": "projetomantis\\Views\\_ViewStart.cshtml",
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Emprestimo\\Listagem.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Emprestimo\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Livro\\Listagem.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Home\\Index.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
+      "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\_ViewImports.cshtml",
+      "TargetPath": "projetomantis27\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Home\\Login.cshtml",
+      "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Emprestimo\\Cadastro.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Emprestimo\\Edicao.cshtml",
+      "TargetPath": "Views\\Emprestimo\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Usuarios\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuarios\\CadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\_ViewStart.cshtml",
+      "TargetPath": "projetomantis27\\Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Home\\Login.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Cadastro.cshtml",
+      "TargetPath": "Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Usuarios\\listadeusuarios.cshtml",
+      "TargetPath": "Views\\Usuarios\\listadeusuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Usuarios\\RegistrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuarios\\RegistrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Livro\\Edicao.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Livro\\Edicao.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Livro\\Cadastro.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Livro\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\projetomantis27\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "projetomantis27\\Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "h:\\SENAC CURSO TECNICO INFORMATICA INTERNET\\MODULO 2\\Biblioteca\\Views\\Livro\\Edicao.cshtml",
+      "TargetPath": "Views\\Livro\\Edicao.cshtml",
       "FileKind": "mvc"
     }
   ],
